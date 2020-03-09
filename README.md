@@ -1,5 +1,6 @@
 # Lueftersteuerung
 
+* geht ein wenig ausführlicher * 
 
 Lüftergeschwindigkeit per Taster steuern
 
