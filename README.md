@@ -2,7 +2,7 @@
 
 * geht ein wenig ausführlicher * 
 
-# Lüftergeschwindigkeit per Taster steuern
+ Lüftergeschwindigkeit per Taster steuern
 
 Um einen Lüfter steuern zu können, muss man seine Versorgungsspannung regulieren. Das macht man mit dem Arduino, indem man per analogWrite Befehl ein PWM Signal ausgibt. Der PWM Wert kann dabei zwischen 0 und 255 liegen, wobei 0 = 0% und 255 = 100% ist.
 
