@@ -3,8 +3,18 @@
 * geht ein wenig ausführlicher * 
 
  
+##Arduino Projekt: Temperaturgesteuerter Lüfter
 
-Thermosensormodul MAX6675 
+Ziel: Ziel dieses Projektes ist es den Temperatursensor MAX6675 am Arduino auszulesen und je nach Schwellwert ein Relais zu schalten welches am Lüfter angeschlossen ist.
+Benötigte Bauteile
+•	Einfaches Relais für den Arduino
+•	Thermosensor MAX6675
+•	Arduino
+•	Breadboard
+•	Breadboardkabel
+
+ 
+##Thermosensormodul MAX6675 
 Das Modul MAX6675 hat zwei Anschlusseiten einmal zum Microcontroller (z.b Arduino) und einmal zum Sensor ( + und -).
 Das Modul wird wie folgt angeschlossen
 
