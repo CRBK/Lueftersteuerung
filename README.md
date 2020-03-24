@@ -7,10 +7,15 @@
 
 Ziel: Ziel dieses Projektes ist es den Temperatursensor MAX6675 am Arduino auszulesen und je nach Schwellwert ein Relais zu schalten welches am Lüfter angeschlossen ist.
 Benötigte Bauteile
+
 •	Einfaches Relais für den Arduino
+
 •	Thermosensor MAX6675
+
 •	Arduino
+
 •	Breadboard
+
 •	Breadboardkabel
 
  
